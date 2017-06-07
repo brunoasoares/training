@@ -1,0 +1,49 @@
+R:It's more easy to sse the changes that you've made on that file
+
+2) How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?
+
+R:You could rapidly get back to any previous version you've made, for instance,
+ if I make a mistake I could know exactly where I ruined my code
+
+3) What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically 
+saved, like Google Docs does?
+
+Pros: You have less commits, you can control better the version updates 
+on your code Cons: If you have power out, you lost your code changes. 
+You have much more commits, and you could be less eficient in controling 
+the updates on your code.
+
+4)Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each 
+file separately?
+
+Because git thinks the repository as a project, when you change a file 
+in the repository, he changes it all, just to you take control of it. In 
+the Gdocs scenario, because he saves automatically, just to get less 
+commits, he only save the files which had really changed since the last 
+autosave
+
+5)How can you use the commands git log and git diff to view the history of 
+files?
+
+I use git log to see all the changes that were made to my repository, by 
+date and with a comment. I can use git diff to see the exactly 
+differences between my previous changes and my new changes, see the 
+lines that were deleted and the ones how were added, by color! thanks 
+for the tip ;)
+
+6)How might using version control make you more confident to make 
+changes that could break something?
+
+
+If I can easily get back to my previous versions, I get much more 
+confident to change my code, because I know, if I mess up with 
+something, I can get back to fix my errors.
+
+7)Now that you have your workspace set up, what do you want to try using 
+Git for?
+
+I want to know the basics to start my javascript course.
+
