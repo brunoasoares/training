@@ -26,5 +26,12 @@ repository to another "folder"
 remote stored locally?
 
 For you know the exactly changes that happened since you've been 
-workking on the project.And for you check any differences and manage 
+working on the project.And for you check any differences and manage 
 conflicts with your new code.
+
+5)How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+
+I probaby will gonna save many files with different names, and then use 
+it to compare the new versions with old versions manually.
+It will be much harder to track all the code changes.
