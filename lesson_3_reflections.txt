@@ -35,3 +35,13 @@ easier, and what would be harder?
 I probaby will gonna save many files with different names, and then use 
 it to compare the new versions with old versions manually.
 It will be much harder to track all the code changes.
+ 
+6) When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+When I use a different branch, I can pull the master branch more easily 
+and see the differences between my code and the original one in my 
+command line. It always better to do this way, because you will always 
+be up to date with collaboration coding. And when you want to suggest 
+some change, you can leave your branch there to the owner of that 
+repository see what you've changed so far.
