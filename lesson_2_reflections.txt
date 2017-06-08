@@ -10,3 +10,31 @@ repository? What value do you think it offers?
 I can manage my commits with multiple files putting them on the staging 
 area, to do a better logical commit. I can also commit all the changed 
 files at once, after I modified the ones I needed.
+
+
+3)How can you use the staging area to make sure you have one commit per 
+logical change?
+
+By changing all the files I want and adding to the stage area, and then I 
+commit my project
+
+4)What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+
+When I want to make some huge change, without trying to modify some bug 
+on the program. For instanec, if I want to put the labels in another 
+language our test some huge modification.
+
+
+5) How do the diagrams help you visualize the branch structure?
+
+
+It's easy to see the actual parents for each branch I'm working on, and 
+the other branchs too
+
+6)What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+I can merge parallel works in a single file, if they are correct, you 
+put the merge in the diagram is a single node, beacause now they are 
+just one code
