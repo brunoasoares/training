@@ -38,3 +38,10 @@ it in the diagram the way we do?
 I can merge parallel works in a single file, if they are correct, you 
 put the merge in the diagram is a single node, beacause now they are 
 just one code
+
+7)What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+Pros: It does all the work to check where the code has changed Cons: You 
+know exactly what have changed and you dont have any mistake when commit 
+the code.
