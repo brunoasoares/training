@@ -22,4 +22,9 @@ Branches: to do a ramification from the master project.
 Clone: to copy the github repository to my machine, or to clone a local 
 repository to another "folder"
 
-4)
+4)What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+For you know the exactly changes that happened since you've been 
+workking on the project.And for you check any differences and manage 
+conflicts with your new code.
